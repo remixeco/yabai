@@ -38,6 +38,7 @@ Additional features of yabai include focus-follows-mouse, disabling animations f
 - The [&nearr;&nbsp;yabai&nbsp;wiki][yabai-wiki] has both brief and detailed installation instructions for multiple installation methods, and also explains how to uninstall yabai completely.
 - Sample configuration files can be found in the [&nearr;&nbsp;examples][yabai-examples] directory. Refer to the [&nearr;&nbsp;documentation][yabai-docs] or the wiki for further information.
 - Keyboard shortcuts can be defined with [&nearr;&nbsp;skhd][gh-skhd] or any other suitable software you may prefer.
+- Graphical front ends for yabai are available as community projects; see the [&nearr;&nbsp;graphical&nbsp;interfaces][yabai-gui] page of the wiki.
 
 ## Requirements and Caveats
 
@@ -85,6 +86,7 @@ You acknowledge that you understand the potential risk that may come from disabl
 [yabai-license]: LICENSE.txt
 [yabai-examples]: https://github.com/asmvik/yabai/tree/master/examples
 [yabai-wiki]: https://github.com/asmvik/yabai/wiki
+[yabai-gui]: https://github.com/asmvik/yabai/wiki/Graphical-interfaces
 [yabai-docs]: https://github.com/asmvik/yabai/blob/master/doc/yabai.asciidoc
 
 <!-- Links to other GitHub projects/users -->
